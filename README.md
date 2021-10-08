@@ -3,6 +3,8 @@
 
  Random jokes for chrome
 
+![Logo](https://github.com/deep-sekhar/Comedy-Times/blob/main/log.png?raw=true)
+
 ## Authors
 
 - [@Deep Sekhar Ghosh](https://github.com/deep-sekhar)
@@ -23,4 +25,4 @@ To run it on your system , you need to make your own mongo atlas database first
   
 ##demo pic
   
-![Logo](https://github.com/deep-sekhar/Bit-Chat-V2.0/blob/main/client/src/images/newlogo1.png?raw=true)
+![Logo](https://github.com/deep-sekhar/Comedy-Times/blob/main/demo.PNG?raw=true)
