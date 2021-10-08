@@ -23,6 +23,6 @@ To run it on your system , you need to make your own mongo atlas database first
     -turn on developer mode in chrome extension
     -add extension to chrome
   
-##demo pic
+## Demo pic
   
 ![Logo](https://github.com/deep-sekhar/Comedy-Times/blob/main/demo.PNG?raw=true)
